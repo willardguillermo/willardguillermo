@@ -44,16 +44,11 @@ Estudiante de **Diseño y Desarrollo de Software en Tecsup** (4.º ciclo). Me gu
 
 ## Tecnologías
 
-| Área | Herramientas |
-|---|---|
-| **Lenguajes** | <img src="https://skillicons.dev/icons?i=kotlin,java,python,php,js,ts,html,css" alt="Kotlin, Java, Python, PHP, JavaScript, TypeScript, HTML, CSS"> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=spring,django,php" alt="Spring Boot, Django, PHP"> |
-| **Frontend y móvil** | <img src="https://skillicons.dev/icons?i=react,androidstudio" alt="React, Android Studio"> |
-| **Bases de datos** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL, PostgreSQL, MongoDB"><br>También SQL y PL/SQL en Oracle |
-| **Herramientas** | <img src="https://skillicons.dev/icons?i=git,github,maven,idea,figma,vercel,cloudflare" alt="Git, GitHub, Maven, IntelliJ IDEA, Figma, Vercel, Cloudflare"> |
-| **Infraestructura e IoT** | <img src="https://skillicons.dev/icons?i=windows,arduino" alt="Windows Server, Arduino"> |
+<p align="center">
+  <img src="assets/stack.svg" alt="Stack: Kotlin, Java, Python, PHP, JavaScript, TypeScript, HTML, CSS, React, Android, Jetpack Compose, Spring Boot, Django, JUnit 5, MySQL, PostgreSQL, MongoDB, Oracle, Git, GitHub, IntelliJ, Figma, Vercel, Cloudflare, Linux, Windows Server y Arduino" width="100%">
+</p>
 
-**Prácticas de trabajo:** Scrum · requisitos y UML · pruebas con JUnit y Mockito · Git con ramas y Pull Requests · arquitectura en capas · APIs REST · Spring Security.
+También trabajo con **APIs REST**, **arquitectura en capas**, **Spring Security** y pruebas con **Mockito**.
 
 ---
 
@@ -77,7 +72,7 @@ Estudiante de **Diseño y Desarrollo de Software en Tecsup** (4.º ciclo). Me gu
 |---|---|
 | **1.º**<br>2025-I | Fundamentos de Programación (Python) |
 | **2.º**<br>2025-II | Programación Orientada a Objetos (Java) · Base de Datos (SQL en Oracle) · Arquitectura de Computadoras · Redes con Cisco Packet Tracer |
-| **3.º**<br>2026-I | Desarrollo de Aplicaciones en Internet (PHP) · Base de Datos Avanzado (MongoDB) · Estructura de Datos y Algoritmos · Ingeniería de Requerimientos y Diseño de Software · Sistemas Operativos (Windows Server y Active Directory) |
+| **3.º**<br>2026-I | Desarrollo de Aplicaciones en Internet (PHP) · Base de Datos Avanzado (MongoDB) · Estructura de Datos y Algoritmos · Ingeniería de Requerimientos y Diseño de Software · Sistemas Operativos (Linux, Windows Server y Active Directory) |
 | **4.º**<br>2026-II | Programación en Móviles (Kotlin y Jetpack Compose) · Desarrollo de Aplicaciones Web (Spring Boot y React) · Desarrollo de Aplicaciones Empresariales (Django) · Construcción y Pruebas de Software (Maven, Git, pruebas) · Tecnologías Emergentes (IoT con Arduino) |
 
 🏆 Participante de la **Hackathon QuipuSoft 2026** (Tecsup) con EcoRed.
